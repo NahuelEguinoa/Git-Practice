@@ -3,7 +3,7 @@
  t h i r d   n o t e 
  This line was added to amend the commit
 Line added to demonstrate git commit --amennnd
-
+Line for repo conflict
  
   T h i s   i s   a   s e c o n d   n o t e 
  
